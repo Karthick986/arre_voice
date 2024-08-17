@@ -1,16 +1,10 @@
 # arre_voice
 
-A new Flutter project.
+A Flutter assignment of Arre Voice.
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+- [Video recording: ](https://raw.githubusercontent.com/Karthick986/arre_voice/blob/main/builds/app_voice_recording.mp4)
+- [Apk / You can find in builds folder: ](https://github.com/Karthick986/arre_voice/blob/main/builds/app_voice.apk)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Watch the video]](https://raw.githubusercontent.com/Karthick986/arre_voice/blob/main/builds/app_voice_recording.mp4)
