@@ -2,7 +2,7 @@
 
 A Flutter assignment of Arre Voice.
 
-## Reference
+## Reference/You can find in builds folder:
 
 - [Video recording: ](https://github.com/Karthick986/arre_voice/blob/main/builds/app_voice_recording.mp4)
-- [Apk / You can find in builds folder: ](https://github.com/Karthick986/arre_voice/blob/main/builds/app_voice.apk)
+- [Apk: ](https://github.com/Karthick986/arre_voice/blob/main/builds/app_voice.apk)
