@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor:ColorConstants.primaryColor),
         useMaterial3: true,
-        iconTheme: IconThemeData(color: Colors.white),
+        iconTheme: const IconThemeData(color: Colors.white),
         fontFamily: 'Ubuntu'
       ),
       debugShowCheckedModeBanner: false,
