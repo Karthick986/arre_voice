@@ -9,7 +9,7 @@ class BottomNavBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 85,
+      height: 75,
       decoration: BoxDecoration(
         borderRadius: playVideo == -1
             ? const BorderRadius.vertical(
